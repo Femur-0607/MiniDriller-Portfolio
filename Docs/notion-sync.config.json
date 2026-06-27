@@ -1,0 +1,45 @@
+{
+  "outputDir": "Docs/Notion",
+  "indexTitle": "Mini Driller Notion Documentation",
+  "pages": [
+    {
+      "id": "367070f755748170bc22d7a39a8820e6",
+      "slug": "index",
+      "title": "Mini Driller Project Documentation Index"
+    },
+    {
+      "id": "359070f7557480b09b55fe9547616df1",
+      "slug": "project-main",
+      "title": "미니 드릴러 (Mini Driller) - v2.4"
+    },
+    {
+      "id": "35e070f7557481a0a825ce8b76fa77b2",
+      "slug": "checklist",
+      "title": "체크리스트 (Checklist)"
+    },
+    {
+      "id": "35e070f75574817cb6c3c02fc653b199",
+      "slug": "backlog",
+      "title": "할 일 백로그 (Backlog)"
+    },
+    {
+      "id": "35d070f75574801e80cffdd55aecc046",
+      "slug": "troubleshooting",
+      "title": "트러블슈팅"
+    },
+    {
+      "id": "35e070f7557480788f11e71fa49c1f04",
+      "slug": "paperzd-guide",
+      "title": "PaperZD 사용 방법"
+    }
+  ],
+  "databases": [
+    {
+      "id": "e36474f3cdea40a886505399cab478ba",
+      "slug": "dev-logs",
+      "title": "개발 일지 및 작업 기록",
+      "sortProperty": "날짜",
+      "sortDirection": "ascending"
+    }
+  ]
+}
